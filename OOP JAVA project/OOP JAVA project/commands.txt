@@ -1,0 +1,15 @@
+pendown
+penup
+move 100
+right 90
+left 90
+reverse 100
+square 100
+triangle 100
+triangle 100,150,80
+square_spiral 10 20
+red
+blue
+yellow
+green
+pencolour 255 0 0
